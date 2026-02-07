@@ -5,7 +5,7 @@
     "description": "A simple API to manage contacts",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "cse341-project2-oz5i.onrender.com",
   "basePath": "/",
   "schemes": [
     "https",
